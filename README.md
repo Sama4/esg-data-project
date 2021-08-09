@@ -1,7 +1,7 @@
 # esg-data-project
 
 Bank of America: ESG Data Project
-- A machine learning approach to analyzing ESG and credit data to derive strategies to reduce default rates while promoting ESG factors
+- Default status classification machine learning model based on ESG and credit data
 
 <br>
 
