@@ -6,6 +6,7 @@ Bank of America: ESG Data Project
 <br>
 
 - Learning Objectives: derive data driven ESG and credit risk business insights
+- Python Libraries: pandas, numpy, sklearn, matplotlib, seaborn
 - Improvements: consider other classification machine learning algorithms (e.g. logistic regression, naive bayes, k-nearest neighbor, random forest)
  
  
