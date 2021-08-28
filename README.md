@@ -1,7 +1,7 @@
 # esg-data-project
 
 Bank of America: ESG Data Project
-- Default status classification machine learning model based on ESG and credit data
+- Loan default status classification machine learning model based on ESG and credit data
 
 <br>
 
